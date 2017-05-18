@@ -20,6 +20,19 @@
         "fundingFinding",
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "OrlandContreras",
+      "name": "OrlandContreras",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1883178?v=3",
+      "profile": "https://github.com/OrlandContreras",
+      "contributions": [
+        "code",
+        "doc",
+        "question",
+        "talk",
+        "eventOrganizing"
+      ]
     }
   ]
 }
