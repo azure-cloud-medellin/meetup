@@ -1,5 +1,5 @@
 # Azure Cloud Medellín
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
 [![Code of Conduct][coc-badge]](#cop-código-de-conducta-cop)
 
@@ -60,8 +60,8 @@ Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotro
 Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars2.githubusercontent.com/u/1481964?v=3" width="100px;"/><br /><sub>Khriztian Moreno</sub>](http://khriztianmoreno.com/)<br />[💻](https://github.com/azure-cloud-medellin/meetup/commits?author=khriztianmoreno "Code") [📖](https://github.com/azure-cloud-medellin/meetup/commits?author=khriztianmoreno "Documentation") [💬](#question-khriztianmoreno "Answering Questions") [📢](#talk-khriztianmoreno "Talks") [🔍](#fundingFinding-khriztianmoreno "Funding Finding") [📋](#eventOrganizing-khriztianmoreno "Event Organizing") | [<img src="https://avatars2.githubusercontent.com/u/1883178?v=3" width="100px;"/><br /><sub>OrlandContreras</sub>](https://github.com/OrlandContreras)<br />[💻](https://github.com/azure-cloud-medellin/meetup/commits?author=OrlandContreras "Code") [📖](https://github.com/azure-cloud-medellin/meetup/commits?author=OrlandContreras "Documentation") [💬](#question-OrlandContreras "Answering Questions") [📢](#talk-OrlandContreras "Talks") [📋](#eventOrganizing-OrlandContreras "Event Organizing") |
-| :---: | :---: |
+| [<img src="https://avatars2.githubusercontent.com/u/1481964?v=3" width="100px;"/><br /><sub>Khriztian Moreno</sub>](http://khriztianmoreno.com/)<br />[💻](https://github.com/azure-cloud-medellin/meetup/commits?author=khriztianmoreno "Code") [📖](https://github.com/azure-cloud-medellin/meetup/commits?author=khriztianmoreno "Documentation") [💬](#question-khriztianmoreno "Answering Questions") [📢](#talk-khriztianmoreno "Talks") [🔍](#fundingFinding-khriztianmoreno "Funding Finding") [📋](#eventOrganizing-khriztianmoreno "Event Organizing") | [<img src="https://avatars2.githubusercontent.com/u/1883178?v=3" width="100px;"/><br /><sub>OrlandContreras</sub>](https://github.com/OrlandContreras)<br />[💻](https://github.com/azure-cloud-medellin/meetup/commits?author=OrlandContreras "Code") [📖](https://github.com/azure-cloud-medellin/meetup/commits?author=OrlandContreras "Documentation") [💬](#question-OrlandContreras "Answering Questions") [📢](#talk-OrlandContreras "Talks") [📋](#eventOrganizing-OrlandContreras "Event Organizing") | [<img src="https://avatars1.githubusercontent.com/u/14205513?v=3" width="100px;"/><br /><sub>mafesernaarboleda</sub>](https://github.com/mafesernaarboleda)<br />[💻](https://github.com/azure-cloud-medellin/meetup/commits?author=mafesernaarboleda "Code") [📖](https://github.com/azure-cloud-medellin/meetup/commits?author=mafesernaarboleda "Documentation") [💬](#question-mafesernaarboleda "Answering Questions") [📋](#eventOrganizing-mafesernaarboleda "Event Organizing") |
+| :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Cualquier tipo de contribución es bienvenida!
