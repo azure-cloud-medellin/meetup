@@ -1,0 +1,17 @@
+{
+  "name": "azure-cloud-medellin",
+  "version": "1.0.0",
+  "description": "Angular Cloud Medellin Meetup",
+  "main": "index.js",
+  "repository": "git@github.com:azure-cloud-medellin/meetup.git",
+  "author": "Cristian Moreno <khriztianmoreno@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "all-contributors-cli": "^4.3.0"
+  },
+  "scripts": {
+    "all-contributors:add": "all-contributors add",
+    "all-contributors:generate": "all-contributors generate",
+    "all-contributors:init": "all-contributors init"
+  }
+}
